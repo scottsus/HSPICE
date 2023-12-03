@@ -41,6 +41,9 @@ python3 scripts/result_appender.py
   2. maps them to each input parameter defined in the `dram_sweep_input.txt` file
   3. writes them to a new `dram_sweep_results.txt` file
 
+## Schematic
+Lab 4 Part 1 can be found [here](https://ssusanto.notion.site/HSPICE-bf830be213f4447982690270ab95580f?pvs=4), where I have waveform diagrams for DRAM and NAND, and a handdrawn schematic for NAND.
+
 ## Notes
 
 Everything should be working as intended 👍
